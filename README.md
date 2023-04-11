@@ -29,7 +29,7 @@
   </a>
    
   <a href="https://ionicframework.com/">
-    <img src="https://github.com/flektor/flektor/blob/main/src/images/ionic.svg" width="40px" title="Ionic" />
+    <img src="https://github.com/flektor/flektor/blob/main/src/images/ionic.svg" width="46px" title="Ionic" />
   </a>
   
   <a href="https://sass-lang.com/">
@@ -90,7 +90,7 @@
 <p>
    
   <a href=" https://www.sourcetreeapp.com/">
-    <img src="https://github.com/flektor/flektor/blob/main/src/images/sourcetree.svg" width="40px" title="Source Tree"/>
+    <img src="https://github.com/flektor/flektor/blob/main/src/images/sourcetree.svg" width="46px" title="Source Tree"/>
   </a>
   
   <a href="https://visualstudio.microsoft.com/">
@@ -98,7 +98,7 @@
   </a>
   
   <a href="https://slack.com/">
-    <img src="https://github.com/flektor/flektor/blob/main/src/images/slack.svg" width="40px" title="Slack"/>
+    <img src="https://github.com/flektor/flektor/blob/main/src/images/slack.svg" width="46px" title="Slack"/>
   </a>
   
   <a href="https://code.visualstudio.com/">
@@ -106,7 +106,7 @@
   </a> 
    
   <a href="https://npm.com/">
-    <img src="https://github.com/flektor/flektor/blob/main/src/images/npm.svg" width="40px" title="npm" align="center"/>
+    <img src="https://github.com/flektor/flektor/blob/main/src/images/npm.svg" width="46px" title="npm" align="center"/>
   </a>
     
 </p>
@@ -142,7 +142,7 @@
   </a>
   
   <a href="https://mongoosejs.com/">
-    <img src="https://github.com/flektor/flektor/blob/main/src/images/mongoose.svg" width="40px" title="Mongoose" />
+    <img src="https://github.com/flektor/flektor/blob/main/src/images/mongoose.svg" width="46px" title="Mongoose" />
   </a>
 </p>
 
