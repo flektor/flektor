@@ -153,7 +153,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   
-   <a href="https://discordapp.com/users/flektor#6330">
+   <a href="https://www.discordapp.com/users/flektor#6330">
     <img src="https://skillicons.dev/icons?i=discord" title="Discord: flektor#6330"/>
   </a>
    
