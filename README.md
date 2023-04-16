@@ -82,8 +82,14 @@
   </a>
   
   <a href="https://threejs.org/">
-    <img src="https://skillicons.dev/icons?i=threejs" title="ThreeJS"/>
+    
   </a>
+  
+  
+  <picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=threejs">
+ <img src="https://skillicons.dev/icons?i=threejs&theme=light" title="ThreeJS"/>
+</picture>
 </p>
  
 ### Tools
