@@ -6,7 +6,7 @@ A Berlin based full stack developer.
 - 🎓 I have a bachelor's degree in Informatics Engineering.
 - 💬 I like to talk about Science, Math, Computer Science and Technology.
 - 🪁 Hobbies include DIY projects, drums and cooking.
- 
+  
 ### FrontEnd
 <p> 
   <span>
@@ -141,9 +141,11 @@ A Berlin based full stack developer.
    <a href="https://www.discordapp.com/users/flektor#6330">
     <img src="https://skillicons.dev/icons?i=discord" title="Discord: flektor#6330"/>
   </a>
- 
 </p>
 
-<a href="https://www.codewars.com/users/flektor">  
-  <img src="https://www.codewars.com/users/flektor/badges/large" />
-</a> 
+<p>
+ <a href="https://www.codewars.com/users/flektor">  
+   <img src="https://www.codewars.com/users/flektor/badges/large" />
+  </a> 
+</p>
+ 
