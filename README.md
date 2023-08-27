@@ -146,6 +146,4 @@ A Berlin based full stack developer.
 
 <a href="https://www.codewars.com/users/flektor">  
   <img src="https://www.codewars.com/users/flektor/badges/large" />
-</a>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flektor&show_icons=true&bg_color=00000000)
+</a> 
