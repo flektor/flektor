@@ -3,7 +3,7 @@ A Berlin based full stack developer.
 
 - 💻 I use TypeScript, JavaScript and Git daily.
 - ⚙️ Also use to some extent C# and Unity for game dev.
-- 🎓 I have a bachelor's degree in informatics engineering.
+- 🎓 I have a bachelor's degree in Informatics Engineering.
 - 💬 I like to talk about Science, Math, Computer Science and Technology.
 - 🪁 Hobbies include DIY projects, drums and cooking.
  
