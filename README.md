@@ -7,7 +7,7 @@ A Berlin based full stack developer.
 - 🎨 I like to do Vector Art with Inkscape, and low poly Models with Blender.
 - 💬 I like to talk about Science, Math, Computer Science and Technology.
 - 🪁 Hobbies include DIY projects, drums and cooking.
-
+ 
 ### FrontEnd
 <p> 
   <span>
@@ -144,16 +144,9 @@ A Berlin based full stack developer.
   </a>
  
 </p>
- 
-### Find me on Codewars
-<p>
-  <a href="https://www.codewars.com/users/flektor">  
-    <img src="https://www.codewars.com/users/flektor/badges/large" />
-  </a>
-  <br />
-  <a src="https://github.com/flektor/codewars-katas">
-    here are some of my kata solutions 
-  </a>
-</p>
+
+<a href="https://www.codewars.com/users/flektor">  
+  <img src="https://www.codewars.com/users/flektor/badges/large" />
+</a>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flektor&show_icons=true&bg_color=00000000)
