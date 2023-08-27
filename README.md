@@ -1,198 +1,138 @@
-# Georgios Drosinos
+### Hi there 👋 I'm George
+A Berlin based full stack developer.
 
-### Hi there 👋 I am Georgios, a Berlin based full stack web developer.
-
+- 💻 I use TypeScript, JavaScript and Git daily.
+- ⚙️ Also use to some extent C# and Unity for game dev.
 - 🎓 I have a bachelor's degree in informatics engineering.
-- 🌱 I'm currently studing full stack web development at spiced academy.
+- 🎨 I like to do Vector Art with Inkscape, and low poly Models with Blender.
+- 💬 I like to talk about Science, Math, Computer Science and Technology.
+- 🪁 Hobbies include DIY projects, drums and cooking.
 
 ### FrontEnd
-
-<p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=js" title="JavaScript"/>
-  </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/TypeScript">
+<p> 
+  <span>
     <img src="https://skillicons.dev/icons?i=ts" title="TypeScript"/>
-  </a>
-  
-  <a href="https://www.w3.org/html/">
-    <img src="https://skillicons.dev/icons?i=html" title="HTML" />
-  </a> 
-  
-  <a href="https://www.w3.org/css/">
-    <img src="https://skillicons.dev/icons?i=css" title="CSS" />
-  </a> 
-  
-  <a href="https://angular.io">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=angular">
-      <img src="https://skillicons.dev/icons?i=angular&theme=light" title="Angular"/>
-    </picture>
-  </a>
+  </span>
    
-  <a href="https://ionicframework.com/">
-    <img src="https://github.com/flektor/flektor/blob/main/src/images/ionic.svg" width="46px" title="Ionic" />
-  </a>
+  <span>
+    <img src="https://skillicons.dev/icons?i=js" title="JavaScript"/>
+  </span>
+
+  <span>
+    <img src="https://skillicons.dev/icons?i=html" title="HTML" />
+  </span>   
   
-  <a href="https://sass-lang.com/">
-    <img src="https://skillicons.dev/icons?i=sass" title="Sass"/>
-  </a>
+  <span>
+    <img src="https://skillicons.dev/icons?i=css" title="CSS" />
+  </span> 
   
-  <a href="https://threejs.org/">
+   <span>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=threejs">
-      <img src="https://skillicons.dev/icons?i=threejs&theme=light" title="NodeJS"/>
-    </picture>
-  </a>
-  
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react">
+      <img src="https://skillicons.dev/icons?i=react&theme=light" title="React"/>
+    </picture>  
+  </span>
+    
+  <span>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=next">
+      <img src="https://skillicons.dev/icons?i=next&theme=light" title="NextJS"/>
+    </picture>  
+  </span>
+ 
 </p>
 
 ### BackEnd
 
 <p>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/TypeScript">
+  <span>
     <img src="https://skillicons.dev/icons?i=ts" title="TypeScript"/>
-  </a>
-    
-  <a href="https://nodejs.org/">
+  </span>
+  
+  <span> 
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs">
       <img src="https://skillicons.dev/icons?i=nodejs&theme=light" title="NodeJS"/>
     </picture>
-  </a>
+  </span>
   
-  <a href="https://expressjs.com/">
+  <span> 
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=express">
       <img src="https://skillicons.dev/icons?i=express&theme=light" title="Express"/>
     </picture>
-  </a>
-  
-  <a href="https://firebase.google.com/"> 
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=firebase">
-      <img src="https://skillicons.dev/icons?i=firebase&theme=light" title="Firebase"/>
-    </picture>
-  </a>
-  
-  <a href="https://www.mysql.com/"> 
+  </span> 
+
+  <span>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql">
       <img src="https://skillicons.dev/icons?i=mysql&theme=light" title="MySQL"/>
     </picture>
-  </a>
+  </span> 
+  
+  <span>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb">
+      <img src="https://skillicons.dev/icons?i=mongodb&theme=light" title="mongoDB"/>
+    </picture>  
+  </span> 
+    
+  <span>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=firebase">
+      <img src="https://skillicons.dev/icons?i=firebase&theme=light" title="Firebase"/>
+    </picture>
+  </span> 
   
 </p>
 
 ### GameDev
 
 <p>
-  <a href="https://unity.com/"> 
+  
+  <span>
+    <img src="https://skillicons.dev/icons?i=cs" />
+  </span> 
+
+  <span>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=unity">
       <img src="https://skillicons.dev/icons?i=unity&theme=light" title="Unity"/>
     </picture>
-  </a>
-  
-  <a href="https://www.blender.org/"> 
+ 
+  <span>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=blender">
       <img src="https://skillicons.dev/icons?i=blender&theme=light" title="Blender"/>
     </picture>
-  </a>
-  
-  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" title="CSharp">
-    <img src="https://skillicons.dev/icons?i=cs" />
-  </a>
-  
-  <a href="https://threejs.org/">
+  </span> 
+ 
+
+  <span>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=threejs">
       <img src="https://skillicons.dev/icons?i=threejs&theme=light" title="ThreeJS"/>
     </picture>
-  </a>
-   
+  </span> 
+  
 </p>
  
 ### Tools
 <p>
-   
-  <a href=" https://www.sourcetreeapp.com/">
-    <img src="https://github.com/flektor/flektor/blob/main/src/images/sourcetree.svg" width="46px" title="Source Tree"/>
-  </a>
-  
-  <a href="https://visualstudio.microsoft.com/">
+   <span>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=visualstudio">
-      <img src="https://skillicons.dev/icons?i=visualstudio&theme=light" title="Visual Studio"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git">
+      <img src="https://skillicons.dev/icons?i=git&theme=light" title="Git"/>
     </picture>
-  </a>
-  
-  <a href="https://slack.com/">
-    <img src="https://github.com/flektor/flektor/blob/main/src/images/slack.svg" width="46px" title="Slack"/>
-  </a>
-  
-  <a href="https://code.visualstudio.com/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode">
-      <img src="https://skillicons.dev/icons?i=vscode&theme=light" title="VSCode"/>
-    </picture>  
-  </a> 
+  </span>   
+ 
+ <span>
+    <img src="https://github.com/flektor/flektor/blob/main/src/images/sourcetree.svg" width="46px" title="Source Tree"/>
+  </span>   
    
-  <a href="https://npm.com/">
-    <img src="https://github.com/flektor/flektor/blob/main/src/images/npm.svg" width="46px" title="npm" align="center"/>
-  </a>
+</p>
     
-</p>
-  
-### Other
-<p>
-  <a href="https://www.arduino.cc/">
-    <img src="https://skillicons.dev/icons?i=arduino" title="Arduino"/>
-  </a>
-</p>
-
-### Interested In
-
-<p>
-  
-  <a href="https://react.dev/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react">
-      <img src="https://skillicons.dev/icons?i=react&theme=light" title="React"/>
-    </picture>  
-  </a>
-  
-  <a href="https://jestjs.io/">
-    <img src="https://skillicons.dev/icons?i=jest" title="Jest" />
-  </a>
-   
-  <a href="https://redux.js.org/">
-    <img src="https://skillicons.dev/icons?i=redux" title="Redux"/>
-  </a>
-   
-  <a href="https://nextjs.org/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=next">
-      <img src="https://skillicons.dev/icons?i=next&theme=light" title="NextJS"/>
-    </picture>  
-  </a>
-  
-  <a href="https://www.mongodb.com/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb">
-      <img src="https://skillicons.dev/icons?i=mongodb&theme=light" title="mongoDB"/>
-    </picture>  
-  </a>
-  
-  <a href="https://mongoosejs.com/">
-    <img src="https://github.com/flektor/flektor/blob/main/src/images/mongoose.svg" width="46px" title="Mongoose" />
-  </a>
-</p>
-
-### Social Media
+### Contact
 
 <p>
   <a href="https://www.linkedin.com/in/georgios-drosinos/" title="LinkedIn">
@@ -202,8 +142,18 @@
    <a href="https://www.discordapp.com/users/flektor#6330">
     <img src="https://skillicons.dev/icons?i=discord" title="Discord: flektor#6330"/>
   </a>
-  
+ 
 </p>
-
-\
+ 
+### Find me on Codewars
+<p>
+  <a href="https://www.codewars.com/users/flektor">  
+    <img src="https://www.codewars.com/users/flektor/badges/large" />
+  </a>
+  <br />
+  <a src="https://github.com/flektor/codewars-katas">
+    here are some of my kata solutions 
+  </a>
+</p>
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flektor&show_icons=true&bg_color=00000000)
