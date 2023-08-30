@@ -1,11 +1,11 @@
 ### Hi there 👋 I'm George
 A Berlin based full stack developer.
 
-- 💻 I use TypeScript, JavaScript and Git daily.
-- ⚙️ Also use to some extent C# and Unity for game dev.
+- 💻 I use TypeScript and JavaScript daily.
+- ⚙️ Also use to some extent C# and Unity.
 - 🎓 I have a bachelor's degree in Informatics Engineering.
 - 💬 I like to talk about Science, Math, Computer Science and Technology.
-- 🪁 Hobbies include DIY projects, drums and cooking.
+- 🪁 Hobbies include DIY projects, drums cycling and cooking..
   
 ### FrontEnd
 <p> 
