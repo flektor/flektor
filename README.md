@@ -1,12 +1,18 @@
 ###  [![icon](https://github.com/flektor/portfolio/blob/main/public/favicon.ico) ](https://flektor.vercel.app/) Hi there👋 I'm George..
 A Berlin based Full-Stack Developer.
-
+ 
 - 💻 I use TypeScript and JavaScript daily.
 - ⚙️ Also use to some extent C# and Unity.
 - 🎓 I have a bachelor's degree in Informatics Engineering.
 - 💬 I like to talk about Science, Math, Computer Science and Technology.
 - 🪁 Hobbies include DIY projects, drums cycling and cooking..
-  
+ 
+ <p>
+ <a href="https://www.codewars.com/users/flektor">  
+   <img src="https://www.codewars.com/users/flektor/badges/small" />
+  </a> 
+</p>
+
 ### FrontEnd
 <p> 
   <span>
@@ -144,12 +150,4 @@ A Berlin based Full-Stack Developer.
 </p>
 --->
 
- Click [here](https://flektor.vercel.app/) to check out my portfolio site!
-
- 
-<p>
- <a href="https://www.codewars.com/users/flektor">  
-   <img src="https://www.codewars.com/users/flektor/badges/small" />
-  </a> 
-</p>
- 
+ Click [here](https://flektor.vercel.app/) to check out my portfolio site! 
