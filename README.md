@@ -129,7 +129,7 @@ A Berlin based Full-Stack Developer.
     <img src="https://github.com/flektor/flektor/blob/main/src/images/sourcetree.svg" width="46px" title="Source Tree"/>
   </span>   
    
-</p> --->
+</p> 
     
 ### Contact
 
@@ -142,7 +142,7 @@ A Berlin based Full-Stack Developer.
     <img src="https://skillicons.dev/icons?i=discord" title="Discord: flektor#6330"/>
   </a>
 </p>
-
+--->
 
  Click [here](https://flektor.vercel.app/) to check out my portfolio site!
 
