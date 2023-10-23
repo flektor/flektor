@@ -1,5 +1,5 @@
-### Hi there 👋 I'm George
-A Berlin based full stack developer.
+###  [![icon](https://github.com/flektor/portfolio/blob/main/public/favicon.ico) ](https://flektor.vercel.app/) Hi there👋 I'm George..
+A Berlin based Full-Stack Developer.
 
 - 💻 I use TypeScript and JavaScript daily.
 - ⚙️ Also use to some extent C# and Unity.
@@ -116,7 +116,7 @@ A Berlin based full stack developer.
   
 </p>
  
-### Tools
+<!--- ### Tools
 <p>
    <span>
     <picture>
@@ -129,7 +129,7 @@ A Berlin based full stack developer.
     <img src="https://github.com/flektor/flektor/blob/main/src/images/sourcetree.svg" width="46px" title="Source Tree"/>
   </span>   
    
-</p>
+</p> --->
     
 ### Contact
 
@@ -143,9 +143,13 @@ A Berlin based full stack developer.
   </a>
 </p>
 
+
+ Click [here](https://flektor.vercel.app/) to check out my portfolio site!
+
+ 
 <p>
  <a href="https://www.codewars.com/users/flektor">  
-   <img src="https://www.codewars.com/users/flektor/badges/large" />
+   <img src="https://www.codewars.com/users/flektor/badges/small" />
   </a> 
 </p>
  
